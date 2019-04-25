@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: More information about me and this website.
 ---
 
 I encourage you to send me your comments regarding me. 
